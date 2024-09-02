@@ -40,3 +40,4 @@ The library should work fine on the following browsers (with `Promise` polyfill)
  - IE9+
  - Edge
  - Safari 6+
+ - Brave
